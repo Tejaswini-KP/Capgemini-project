@@ -1,1 +1,1 @@
-# Capgemini-project
+# Simple Email Application
